@@ -1,1 +1,13 @@
-miguel angel mamani apaza
+MIGUEL ANGEL MAMANI APAZA.
+Las metodologías tradicionales se caracterizan por tener una estructura de desarrollo 
+claramente establecida, lineal y poco flexible ante cambios de un entorno volátil. 
+Presentan un alto costo al ser implementadas. Tienen roles, actividades y artefactos 
+claramente definidos. Requieren de una documentación exhaustiva, clara y detallada de 
+todo el proyecto. Y centran su atención en cumplir un plan establecido desde el inicio 
+del desarrollo, por todas las partes involucradas. Por ejemplo: RUP, MSF, cascada, espiral, 
+ICONIX, entre otros.
+
+Sin embargo, a lo largo de los años, los requerimientos de los clientes cambiaron; 
+ahora se tienen restricciones de tiempo, debe existir flexibilidad a lo largo del desarrollo 
+del proyecto y en lo posible una disminución de costos. Por lo que, los equipos de desarrollo 
+tienden a prescindir de la implementación de estas metodologías (Parada, 2016).
